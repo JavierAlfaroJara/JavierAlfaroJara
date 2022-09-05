@@ -1,8 +1,8 @@
 <span> 
 
- <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=javieralfarojara&show_icons=true&theme=radical&line_height=33.5%22%3E">
-
- <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=javieralfarojara&hide=css,html&theme=tokyonight%22%3E">
+ <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=javieralfarojara&show_icons=true&theme=radical&line_height=33.5">
+   
+ <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=javieralfarojara&hide=css,html&theme=tokyonight">
 
 </span>
 

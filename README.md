@@ -13,8 +13,8 @@
 
 ### Knowledges
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-3178C6?style=for-the-badge&logo=css&logoColor=white)
 

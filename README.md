@@ -15,15 +15,6 @@
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-3178C6?style=for-the-badge&logo=css&logoColor=white)
 
-<span> 
-
- <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=javieralfarojara&show_icons=true&theme=radical&line_height=33.5">
-   
- <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=javieralfarojara&hide=css,html&theme=tokyonight">
-
-</span>
-
-
 <!--
 **JavierAlfaroJara/JavierAlfaroJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

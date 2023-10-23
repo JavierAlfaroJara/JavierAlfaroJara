@@ -15,6 +15,8 @@
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-3178C6?style=for-the-badge&logo=css&logoColor=white)
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="javier-alfaro-jara" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cr.linkedin.com/in/javier-alfaro-jara?trk=profile-badge">Javier Alfaro Jara</a></div>
+              
 <!--
 **JavierAlfaroJara/JavierAlfaroJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

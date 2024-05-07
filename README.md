@@ -2,7 +2,11 @@
 
 ## 🚀 About me
 
-I am an experienced fullstack developer with a strong background in ReactJS and over 2 years of object-oriented web application development experience. Proficient in Agile/Scrum methodologies, I'm deeply passionate about developing scalable high-quality code. Played an important role in the migration of a vital internal tool for a multinational company. I have successfully delivered solutions for internal tools, e-commerce, and asset management. I'm eager to contribute my skills in creating innovative web application solutions and thrive in a diverse and collaborative work environment.
+Experienced full stack developer with a strong background in Angular, React, ASP.NET C#, Node.js, and object-oriented web application development. Skilled in delivering solutions for various sectors, including e-commerce, asset management, internal company tools, and multinational industry sector.
+
+I'm deeply passionate about developing scalable high-quality code, eager to contribute with my skills in creating innovative web application solutions and thrive in a diverse and collaborative problem solving work environment.
+
+If you want to contact me you can email me to javieralfajara@gmail.com
 
 ## 🛠️ Habilities
 

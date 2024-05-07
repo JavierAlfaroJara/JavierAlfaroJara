@@ -18,7 +18,8 @@ If you want to contact me you can email me to javieralfajara@gmail.com
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-3178C6?style=for-the-badge&logo=css&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-3178C6?style=for-the-badge&logo=css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-6CC24A?style=for-the-badge&logo=css&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-3178C6?style=for-the-badge&logo=css&logoColor=white)
+
 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="javier-alfaro-jara" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cr.linkedin.com/in/javier-alfaro-jara?trk=profile-badge">Javier Alfaro Jara</a></div>
